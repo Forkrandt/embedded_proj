@@ -1,2 +1,2 @@
 # Project list
-<ul>vector sign generator/ul>
+<ul>vector sign generator</ul>
